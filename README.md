@@ -6,8 +6,6 @@
 
 *Building a strong foundation in algorithms, distributed systems, data and machine learning.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat&logo=github&color=181717)
 
 </div>
 
@@ -15,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at **GITAM (Visakhapatnam)**, studying in the **School of CSE, Department of Computer Science and Systems Engineering**. I enjoy understanding how systems work under the hood, from the algorithms that power them to the data that flows through them. I learn by practising consistently, debugging patiently and refining my solutions until they are clean and efficient.
+I'm a Computer Science student at **GITAM (Visakhapatnam)**, studying in the **School of CSE, Department of Computer Science and Engineering**. I enjoy understanding how systems work under the hood, from the algorithms that power them to the data that flows through them. I learn by practising consistently, debugging patiently and refining my solutions until they are clean and efficient.
 
 - 🎓 Pursuing B.Tech in Computer Science at GITAM, Visakhapatnam
 - 🧠 Strengthening problem-solving through regular algorithmic practice
@@ -70,9 +68,9 @@ I'm a Computer Science student at **GITAM (Visakhapatnam)**, studying in the **S
 
 **B.Tech, Computer Science & Engineering**
 GITAM (Deemed to be University), Visakhapatnam
-School of CSE · Department of Computer Science and Systems Engineering
+School of CSE · Department of Computer Science and Engineering
 
-**Relevant Coursework:** Distributed Systems · Big Data Analytics · Renewable Energy Systems · Data Structures & Algorithms · Machine Learning
+**Relevant Coursework:** Distributed Systems · Big Data Analytics · Data Structures & Algorithms · Machine Learning
 
 ---
 
@@ -98,7 +96,6 @@ I practise algorithmic problems regularly on **LeetCode** in **Java**, working a
 
 - 🎌 Anime
 - 💰 Personal finance, especially compound interest and growth mechanics
-- 🔬 Sustainable and renewable energy technologies
 - 🤖 Data, AI and how intelligent systems learn
 
 ---
@@ -116,8 +113,7 @@ I practise algorithmic problems regularly on **LeetCode** in **Java**, working a
 
 <div align="center">
 
-![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
+
 
 ![Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true)
 
